@@ -1,5 +1,13 @@
 package edu.calvin.akg8.lab03;
 
+/* Lab03
+* CS-262
+* This activity creates a simple password login app
+*
+* @author: Andrew Gbeddy
+* @version: fall 2016
+ */
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -11,12 +19,6 @@ import android.widget.ImageView;
 import android.content.SharedPreferences;
 import android.widget.TextView.OnEditorActionListener;
 
-
-/* Lab 3
-*CS-262
-* @author: Andrew Gbeddy
-* @version: 1.0 (Fall 2016)
- */
 
 public class PasswordActivity extends AppCompatActivity {
 
